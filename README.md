@@ -47,7 +47,8 @@ A **modular Java microservice framework** built on **Reactive Programming and RS
 - Provides built-in **service discovery**, **dynamic load balancing**, and **event-driven orchestration**  
 - Reduces boilerplate code by **90%** with automatic query generation  
 - Includes a pluggable **authentication & annotation-based authorization system**  
-- Integrated real-time **diagnostics and metrics** with fault tracing  
+- Integrated real-time **diagnostics and metrics** with fault tracing
+- Single ReactJS codebase supports **web and desktop (JCEF)** builds  
 
 **Tech:** Java, Scalecube, RSocket, JPA, Reactive Streams  
 
@@ -55,28 +56,10 @@ A **modular Java microservice framework** built on **Reactive Programming and RS
 
 #### 🌍 [Traveelia Web App](https://github.com/Chamith-Nimmitha/traveelia)
 A **travel-sharing and discovery platform** with a rich editor, reviews, and equipment sourcing.  
-- Single codebase supports **web and desktop (JCEF)** builds  
+- C​reated a travel-sharing web app with​​ **advanced text ​​editing (using Lexical editor)**​​.
 - Enhanced UX by **40% faster loading** via Next.js optimization and image compression  
-- Built cloud-ready with AWS hosting  
 
-**Tech:** Next.js, MySQL, AWS, Lexical, React  
-
----
-
-#### 🏬 Reactive Retail System (Enactor)
-Optimized **retail inventory management** systems with **Zookeeper-based push notifications**,  
-improving system throughput by **300%** and ensuring **high availability**.  
-Migrated from **Docker Swarm to Kubernetes**, enhancing deployment scalability.  
-
-**Tech:** Java, Zookeeper, Docker, Kubernetes  
-
----
-
-#### 🎓 E-Learning Backend (CodePark Labs)
-Developed a **Django backend** for a secure e-learning platform with Vimeo integration.  
-Containerized deployment using Docker ensured consistent builds across environments.  
-
-**Tech:** Django, Docker, PostgreSQL  
+**Tech:** Next.js, MySQL, AWS, Lexical, React   
 
 ---
 
