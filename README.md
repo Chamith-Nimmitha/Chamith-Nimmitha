@@ -89,11 +89,6 @@ I’m passionate about building **open, reusable, and extensible** frameworks th
 
 ---
 
-⭐ **Pinned Projects Recommendation:**  
-→ `mstack-framework` | `traveelia` | `reactive-retail-system` | `django-elearning`  
-
----
-
 <p align="center">
   💬 *Let’s build scalable systems that make an impact.*
 </p>
